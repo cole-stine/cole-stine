@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm X</h1>
+<h1 align="center">Hi, I'm Cole Stine! 👋</h1>
 <h3 align="center">A creative and motivated full-stack developer living in Los Angeles, CA</h3>
 
 - 🔭 I’m currently working on [X](X)
