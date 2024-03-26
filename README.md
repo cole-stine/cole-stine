@@ -3,15 +3,9 @@
 
 - 🔭 I’m currently working on [X](X)
 
-- 🌱 I’m currently learning **PostgreSQL, React Native, X**
+- 🌱 I’m currently learning **PostgreSQL, React, and React Native**
 
-- 👯 I’m looking to collaborate on [X](X)
-
-- 🤝 I’m looking for help with [X](X)
-
-- 💬 Ask me about **X**
-
-- 📫 How to reach me **X**
+- 📫 How to reach me **cstine1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
