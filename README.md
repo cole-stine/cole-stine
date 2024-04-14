@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Cole Stine! 👋</h1>
 <h3 align="center">A creative and motivated full-stack developer living in Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on a few different projects that combine my passion for coding with my love for coffee, Brazilian Jiu-Jitsu, and weekend activities!
+- 🔭 I’m currently working on a few different projects that combine my passion for coding with my love for coffee, Brazilian Jiu-Jitsu, and exploring new cities!
 
-- 🌱 I’m currently learning **PostgreSQL, React, and React Native**
+- 🌱 I’m currently working on my skills using **PostgreSQL, React, and React Native**
 
 - 📫 How to reach me **cstine1234@gmail.com**
 
